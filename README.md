@@ -10,6 +10,5 @@ scikit-learn<br/>
 numpy<br/>
 
 # Check Keras Version
-
->>> import keras
->>> print(keras.__version__)
+    >>>import keras
+    >>>print(keras.__version__)
