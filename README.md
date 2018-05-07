@@ -9,4 +9,7 @@ Keras 1.0.7 and Theano for backend (If you have latest keras version than change
 scikit-learn<br/>
 numpy<br/>
 
+# Check Keras Version
 
+>>> import keras
+>>> print(keras.__version__)
