@@ -5,10 +5,6 @@ A machine learning program which predict the stock prices using Keras.<br/>
 # Requirement
 Python 3.6.4<br/>
 Pandas <br/>
-Keras 1.0.7 and Theano for backend (If you have latest keras version than change line 31 from nb_epoch --> epoch and from line 28 and 29 change output_dim --> units)<br/> 
+Keras 1.0.7 and Theano for backend<br/> 
 scikit-learn<br/>
 numpy<br/>
-
-# Check Keras Version
-    >>>import keras
-    >>>print(keras.__version__)
